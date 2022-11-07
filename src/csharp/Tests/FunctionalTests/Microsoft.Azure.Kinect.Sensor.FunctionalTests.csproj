@@ -46,7 +46,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\SDK\Microsoft.Azure.Kinect.Sensor.csproj" />
+    <ProjectReference Include="..\..\SDK\Microsoft.Azure.Kinect.Sensor-pr1711.csproj" />
   </ItemGroup>
 
 </Project>

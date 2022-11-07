@@ -134,9 +134,9 @@
       <Project>{618e28c5-0624-463f-9adb-040ba5daed68}</Project>
       <Name>Microsoft.Azure.Kinect.Sensor.WinForms</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\SDK\Microsoft.Azure.Kinect.Sensor.csproj">
+    <ProjectReference Include="..\..\SDK\Microsoft.Azure.Kinect.Sensor-pr1711.csproj">
       <Project>{847b31d5-c253-4766-bf81-032f4670589d}</Project>
-      <Name>Microsoft.Azure.Kinect.Sensor</Name>
+      <Name>Microsoft.Azure.Kinect.Sensor-pr1711</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

@@ -76,9 +76,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\SDK\Microsoft.Azure.Kinect.Sensor.csproj">
+    <ProjectReference Include="..\..\SDK\Microsoft.Azure.Kinect.Sensor-pr1711.csproj">
       <Project>{847b31d5-c253-4766-bf81-032f4670589d}</Project>
-      <Name>Microsoft.Azure.Kinect.Sensor</Name>
+      <Name>Microsoft.Azure.Kinect.Sensor-pr1711</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

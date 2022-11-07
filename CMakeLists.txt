@@ -7,7 +7,7 @@
 # Visual Studio 2017 15.3 - CMake 3.8
 # Visual Studio 2017 15.4 - CMake 3.9
 # Visual Studio 2017 15.7 - CMake 3.11
-cmake_minimum_required(VERSION 3.9.0)
+cmake_minimum_required(VERSION 3.21.0)
 
 cmake_policy(SET CMP0048 NEW)
 

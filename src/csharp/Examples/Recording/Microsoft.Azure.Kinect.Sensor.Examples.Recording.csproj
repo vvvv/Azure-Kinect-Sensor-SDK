@@ -13,8 +13,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Record\Microsoft.Azure.Kinect.Sensor.Record.csproj" />
-    <ProjectReference Include="..\..\SDK\Microsoft.Azure.Kinect.Sensor.csproj" />
+    <ProjectReference Include="..\..\Record\Microsoft.Azure.Kinect.Sensor.Record-pr1711.csproj" />
+    <ProjectReference Include="..\..\SDK\Microsoft.Azure.Kinect.Sensor-pr1711.csproj" />
   </ItemGroup>
 
   <ItemGroup>
